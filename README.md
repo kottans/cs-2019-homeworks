@@ -18,7 +18,7 @@ This repository is dedicated to exchange of homeworks and peer review by student
 
   See example file structure you are expected to have below:
 
-  ![File structure example](img/file-structure.png)
+  ![File structure example](img/file-structure.PNG)
 - make a pull request
 - review 1-2 pull reqests from your peers.
 
