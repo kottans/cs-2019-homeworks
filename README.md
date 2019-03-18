@@ -14,7 +14,7 @@ This repository is dedicated to exchange of homeworks and peer review by student
 
 ## How to Submit a task
 
-- When your are done with a task, save code and/or text into a relevant folder under your name and course and make a pull-request. 
+- When your are done with a task, save code and/or text into a relevant folder under your name and course. 
 
   See example file structure you are expected to have below:
 
