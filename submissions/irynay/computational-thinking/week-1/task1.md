@@ -1,8 +1,8 @@
 ## Task 1
-###Problem:
+### Problem:
  As problem example i want take a furniture factory. So as factory can produce different furniture, owner must solve where and how much he must buy the materials, where i can have a best place for selling his furniture and how many workers he need. 
 
-###Decomposition: 
+### Decomposition: 
  1. Plan how many furniture to make this month
  2. Calculate how many materials need for this
  3. Shop for the materials
@@ -10,7 +10,7 @@
  5. Produce products
  6. Delivery to the store
 
-###Pattern recognition:
+### Pattern recognition:
  Here is an example pattern of chair creating. Using this pattern, we can create chairs of different shapes or colors.
  1. Create a chair legs
  2. Create a chair cover
@@ -18,7 +18,7 @@
  4. Attach everything with nails
  5.  Painting
 
-###Data representation and abstraction:
+### Data representation and abstraction:
  1. product height
  2. product width
  3. color
@@ -29,7 +29,7 @@
  1. how much material is left
  2. paint or material number
 
-###Algorithm
+### Algorithm
  1. get all orders
  2. buy materials
  3. create a furniture
