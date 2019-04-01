@@ -49,7 +49,7 @@ string irerate  and compare each word with thesaurus.
 3. I think, that thesaurus would be represented as collection of synonyms and corpus must be converted in array.
 
 4. Algorithm:
-  a) Initialize the variable counte = 0.
+  a) Initialize the variable counter = 0.
   b) Create an array of words from corpus.
   c) Take firs word and compare it with thesaurus.
   d) If thesaurus includes this word then increase counter.
