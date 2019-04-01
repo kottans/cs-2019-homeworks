@@ -24,10 +24,13 @@ linear search binary search
 
   
 ### Question #5.
-1 In wost case, namber of operations will be 150 (n * 10times);
-2 For sort elements we will spent 60 operations (n * log2 n);
-3 For bunary searches, in the worst case it would require 40 operations (log2 n);
-4 It would be better to first sort the elements and then conduct 10 binary searches.
+1. In wost case, namber of operations will be 150 (n * 10times);
+
+2. For sort elements we will spent 60 operations (n * log2 n);
+
+3. For bunary searches, in the worst case it would require 40 operations (log2 n);
+
+4. It would be better to first sort the elements and then conduct 10 binary searches.
 (for sorting binary search we spent 100 operations (15 * log2 15 + log2 15), whereas on linary we spent 150 operations)
 
 ## Task 3: greedy algorithm
