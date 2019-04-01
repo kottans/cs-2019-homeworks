@@ -55,3 +55,4 @@ total distance will be 18;
 ## Task 4: Describing Algorithms Using a Flowchart
 ![flowcahrt](flowcahrt-search.png)
 
+think about: can crate the same patter for iteratuing list in flowchart?
